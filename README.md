@@ -14,7 +14,7 @@ testuser
 
 #Password Bruteforce:
 
-<code>$ ./wpbrute.sh --url=www.example.com --user=admin --wordlist=wordlist.txt</code>
+<code>$ ./wpbrute.sh --url=www.example.com --user=admin --wordlist=passwords.txt</code>
 <pre>
 [+] Bruteforcing user [admin]
 123456
